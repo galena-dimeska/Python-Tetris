@@ -8,4 +8,3 @@ The side bar of game window has the functionality of keeping track of the score,
 
 ![tetris screen](https://github.com/galena-dimeska/Python-Tetris/assets/125221651/03874a07-bf67-40fd-b77a-1a0cee4d8d00)
 
-Part of this project's code was done by following a tutorial by (https://www.youtube.com/@programmingwithnick), the music and sound effects also being taken from them.
