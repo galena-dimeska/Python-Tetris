@@ -22,6 +22,7 @@ class Game:
 		self.clear_sound = pygame.mixer.Sound("Sounds/Sounds_clear.ogg")
 
 		pygame.mixer.music.load("Sounds/music.ogg")
+		pygame.mixer.music.set_volume(0.15)
 		pygame.mixer.music.play(-1) 
 
 
